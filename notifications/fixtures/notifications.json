@@ -1,0 +1,29 @@
+[
+{
+    "model": "notifications.notification",
+    "pk": 1,
+    "fields": {
+        "task": 1,
+        "message": "Задача 'Баг' завершена, Владелец:  John Doe",
+        "created_at": "2024-10-23T12:52:55.118Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 2,
+    "fields": {
+        "task": 2,
+        "message": "Задача 'Рассылка' просрочена!, Владелец: John Doe",
+        "created_at": "2024-10-23T13:09:00.216Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 3,
+    "fields": {
+        "task": 2,
+        "message": "Задача 'Рассылка' просрочена!, Владелец: John Doe",
+        "created_at": "2024-10-23T13:10:00.023Z"
+    }
+}
+]
