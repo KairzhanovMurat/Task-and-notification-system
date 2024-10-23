@@ -3,10 +3,6 @@ from rest_framework import serializers
 
 
 class CreateUserSerializer(serializers.ModelSerializer):
-    """
-    Схема создания/редактирования пользователя
-    """
-
     class Meta:
         model = get_user_model()
 
