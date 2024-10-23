@@ -17,7 +17,7 @@
 ```bash
 git clone git@github.com:KairzhanovMurat/Task-and-notification-system.git
 
-cd <repo>
+cd Task-and-notification-system
 ```
 
 ### Настройка
