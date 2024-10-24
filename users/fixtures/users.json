@@ -16,5 +16,24 @@
         "groups": [],
         "user_permissions": []
     }
+},
+{
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$xkJrXXT4TghS8fg6Esx9lg$K3DL0+K0sLSGBFljbuyWl1U4689yGGYErbCGz1LZAsg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "JanenDoe123",
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-10-24T05:06:12.736Z",
+        "email": "example@email.com",
+        "groups": [],
+        "user_permissions": []
+    }
 }
+
 ]
